@@ -1,5 +1,5 @@
 title: Not Yet a Paper
-description: Thoughts & ideas on machine learning and physics, mostly. Mainly me trying to understanding things by explaining them.
+description: Thoughts & ideas on machine learning and physics. Mainly me trying to understanding things by explaining them.
 author: "Markus Frank"
 
 theme: minima
@@ -20,8 +20,8 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/frontpage.md
   - _pages/about.md
+  - _pages/frontpage.md
   - _pages/archive.md
 
 include:
