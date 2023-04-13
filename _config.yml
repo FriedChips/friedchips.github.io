@@ -1,15 +1,15 @@
-title: My blog
-description: My very nice blog
+title: Not Yet a Paper
+description: Thoughts & ideas on machine learning and physics, mostly. Mainly me trying to understanding things by explaining them.
 author: "Markus Frank"
 
 theme: minima
 
-#base_url: /gh-pages-minima-starter
+#base_url: /
 
 # Minima social links
-#twitter_username: xurxosanz
+#twitter_username: -
 github_username: friedchips
-#linkedin_username: jsanz
+#linkedin_username: -
 rss: rss
 
 # Minima: show excerpts in the frontpage
